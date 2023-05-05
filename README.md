@@ -26,5 +26,5 @@ I’m a software development student from Brazil. <img src="https://media.giphy.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KallinePorfirio&theme=midnight-purple&card_width=600)](https://git.io/streak-stats)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KallinePorfirio&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
