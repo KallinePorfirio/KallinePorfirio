@@ -15,8 +15,9 @@
 
 ### 🔮 About Me :
 
-<h4> I’m a software development student from Brazil. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
+<h4>
+ I’m a software development student from Brazil. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ 
 <h3 align="center">I’m currently learning:</h3>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" alt="Java" width="40" height="40"/>&nbsp;
