@@ -5,7 +5,6 @@
 </div> 
 
 
-- 🏵️ I’m Kalline Porfirio!
 - ✨ I’m interested in software development
 - 🪐 I’m currently learning software development
 
@@ -15,7 +14,11 @@
 </div>
 
 
+---
 
+### About Me :
+
+I’m a software development student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
