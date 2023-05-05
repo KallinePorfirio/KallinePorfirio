@@ -15,8 +15,9 @@
 
 ### 🔮 About Me :
 
-<h4>
- I’m a software development student from Brazil. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ - I'm Kalline Porfirio!
+ - 20 years old.
+ - I’m a software development student from Brazil. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  
 <h3 align="center">I’m currently learning:</h3>
 <div align="center">
@@ -25,7 +26,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS3" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="Git" width="40" height="40"/>&nbsp;
-  </h4>
+
 
 ---
   
