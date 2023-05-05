@@ -17,7 +17,8 @@
 
  - I'm Kalline Porfirio!
  - 20 years old.
- - I’m a software development student from Brazil. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ - São Paulo, Brazil.
+ - Software development student. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  
 <h3 align="center">I’m currently learning:</h3>
 <div align="center">
