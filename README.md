@@ -7,24 +7,29 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/7PxNr5ukrXSJH8v4IF/giphy.gif" width="150" height="140"/>
+  <img src="https://media.giphy.com/media/aT8qmIcoyPQ1EeB9DK/giphy.gif" width="300" height="300"/>
 </div>
 
 
 ---
 
-### 🪐 About Me :
+### 🔮 About Me :
 
 I’m a software development student from Brazil. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-- ✨ I’m currently learning:
+- I’m currently learning:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="Git" width="40" height="40"/>&nbsp;
+  
 
-
-
-
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KallinePorfirio&theme=midnight-purple&card_width=600)](https://git.io/streak-stats)
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KallinePorfirio&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+---
+  
+<div align="center">
+<a href="https://github.com/KallinePorfirio">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KallinePorfirio&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KallinePorfirio&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
