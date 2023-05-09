@@ -31,8 +31,9 @@
 
 ---
   
-<div align="center">
-<a href="https://github.com/KallinePorfirio">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KallinePorfirio&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KallinePorfirio&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KallinePorfirio&theme=midnight-purple&hide_border=true&border_radius=5&card_width=600)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KallinePorfirio&layout=compact&theme=midnight-purple)](https://github.com/KallinePorfirio/github-readme-stats)
+
+
