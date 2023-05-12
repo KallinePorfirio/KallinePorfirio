@@ -31,7 +31,7 @@
 
 ---
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KallinePorfirio&layout=compact&theme=midnight-purple)](https://github.com/KallinePorfirio/github-readme-stats)
+
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KallinePorfirio&theme=midnight-purple&hide_border=true&border_radius=5&card_width=600)](https://git.io/streak-stats)
 
